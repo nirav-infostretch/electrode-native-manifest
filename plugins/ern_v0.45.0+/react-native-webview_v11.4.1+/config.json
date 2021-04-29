@@ -1,7 +1,10 @@
 {
   "android": {
     "root": "",
-    "moduleName": "android"
+    "moduleName": "android",
+    "dependencies": [
+      "org.jetbrains.kotlin:kotlin-stdlib:1.5.0"
+    ]
   },
   "ios": {
     "copy": [
