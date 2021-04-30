@@ -7,8 +7,8 @@
     ],
     "copy": [
       {
-        "source": "file:///Users/nirav.parmar/Documents/GitHub/react-native-webview/android/src/main/java/*",
-        "dest": "lib/src/main/java"
+        "source": "../../webview/*",
+        "dest": "android/src/main/java"
       }
     ]
   },
