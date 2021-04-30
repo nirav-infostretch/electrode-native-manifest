@@ -4,6 +4,12 @@
     "moduleName": "android",
     "dependencies": [
       "org.jetbrains.kotlin:kotlin-stdlib:1.5.0"
+    ],
+    "copy": [
+      {
+        "source": "file:///Users/nirav.parmar/Documents/GitHub/react-native-webview/android/src/main/java/*",
+        "dest": "lib/src/main/java"
+      }
     ]
   },
   "ios": {
