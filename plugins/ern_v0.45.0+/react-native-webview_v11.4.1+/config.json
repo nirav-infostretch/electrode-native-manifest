@@ -8,7 +8,7 @@
     "copy": [
       {
         "source": "../../webview/*",
-        "dest": "android/src/main/java"
+        "dest": "lib/src/main/java/com/reactnativecommunity/webview"
       }
     ]
   },
